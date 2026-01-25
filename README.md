@@ -15,4 +15,4 @@
 - **Conta Bancária em Python** — sistema via terminal com depósito, saque e consulta de saldo
 
 📫 Vamos conectar:
-- LinkedIn: *(adicione depois se quiser)*
+- LinkedIn: https://www.linkedin.com/in/kayke-hans-2bb898229/
