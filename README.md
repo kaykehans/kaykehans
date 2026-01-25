@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**kaykehans/kaykehans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Kayke Hans
 
-Here are some ideas to get you started:
+🎓 Estudante de TI (Sistemas de Informação)  
+🐍 Estudando Python e Programação Orientada a Objetos  
+📌 Criando projetos práticos e publicando no GitHub  
+🎯 Objetivo: Estágio ou vaga júnior em desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+- Python
+- Programação Orientada a Objetos (POO)
+- Git & GitHub
+
+## 🚀 Projetos
+- **Conta Bancária em Python** — sistema via terminal com depósito, saque e consulta de saldo
+
+📫 Vamos conectar:
+- LinkedIn: *(adicione depois se quiser)*
