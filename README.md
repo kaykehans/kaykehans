@@ -10,6 +10,8 @@
 - Python
 - Programação Orientada a Objetos (POO)
 - Git & GitHub
+- Html
+- CSS
 
 ## 🚀 Projetos
 - **Conta Bancária em Python** — sistema via terminal com depósito, saque e consulta de saldo
