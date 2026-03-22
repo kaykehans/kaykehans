@@ -24,7 +24,7 @@
 ### Conta Bancária em Python
 - Sistema via terminal com depósito, saque e consulta de saldo  
 - Aplicação prática de lógica de programação e POO  
-- GitHub: [link do projeto]  
+- GitHub: [link do projeto](https://github.com/kaykehans/conta-bancaria-python)  
 
 ---
 
